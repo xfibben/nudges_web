@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "Nudges",
+    "description": "Apps pequeñas para macOS"
+  },
+  "nav": {
+    "apps": "Apps",
+    "about": "Acerca de"
+  },
+  "home": {
+    "hero_title": "Apps pequeñas,\ngran impacto.",
+    "hero_subtitle": "Una colección de utilidades macOS enfocadas que no estorban.",
+    "browse_apps": "Ver apps"
+  },
+  "apps": {
+    "section_title": "Apps",
+    "download": "Descargar",
+    "free": "Gratis",
+    "coming_soon": "Próximamente",
+    "nudge_pdf": {
+      "name": "Nudge PDF",
+      "tagline": "Herramientas PDF, sin el peso.",
+      "description": "App ligera para macOS: une, comprime y convierte PDFs. Sin suscripciones, sin subir a la nube."
+    }
+  },
+  "footer": {
+    "made_with": "Hecho con",
+    "for": "para macOS"
+  }
+}

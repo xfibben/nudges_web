@@ -1,0 +1,18 @@
+---
+interface Props {
+  href?: string;
+  height?: number;
+  class?: string;
+}
+
+const { href = '/', height = 36, class: className = '' } = Astro.props;
+---
+
+<a href={href} class:list={['inline-flex items-center', className]}>
+  <img
+    src="/Playful logo design for Nudges.png"
+    alt="Nudges"
+    height={height}
+    style={`height: ${height}px; width: auto;`}
+  />
+</a>

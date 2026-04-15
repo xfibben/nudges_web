@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "Nudges",
+    "description": "Small apps for macOS"
+  },
+  "nav": {
+    "apps": "Apps",
+    "about": "About"
+  },
+  "home": {
+    "hero_title": "Small apps,\nbig impact.",
+    "hero_subtitle": "A collection of focused macOS utilities that get out of your way.",
+    "browse_apps": "Browse apps"
+  },
+  "apps": {
+    "section_title": "Apps",
+    "download": "Download",
+    "free": "Free",
+    "coming_soon": "Coming soon",
+    "nudge_pdf": {
+      "name": "Nudge PDF",
+      "tagline": "PDF tools, without the bloat.",
+      "description": "A lightweight macOS app to merge, compress, and convert PDFs. No subscriptions, no cloud uploads."
+    }
+  },
+  "footer": {
+    "made_with": "Made with",
+    "for": "for macOS"
+  }
+}
